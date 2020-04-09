@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4bc0b17-465f-46ba-97d5-40d8ce5f6b57" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aDMHME7UK6VSzMKWSsnM1NQhqn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../planner" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.GUI">
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI" />
+      <module name="DozaEffect" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KNN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KNN" />
+      <module name="DozaEffect" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DozaEffect" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.KNN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4bc0b17-465f-46ba-97d5-40d8ce5f6b57" name="Default Changelist" comment="" />
+      <created>1586265622904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586265622904</updated>
+      <workItem from="1586265627194" duration="34915000" />
+      <workItem from="1586454799316" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1586375266958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586375266958" />
+    <state x="473" y="89" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1586373018028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="89" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586373018028" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1586454812897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586454812897" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1586454663838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586454663838" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1586454663837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586454663837" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1586454663837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586454663837" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1586454663837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586454663837" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1586454663838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586454663838" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1586454663838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586454663838" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1586454663838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586454663838" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1586454663838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586454663838" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1586451441759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1586451441759" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1586285475036">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586285475036" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1586454799778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586454799778" />
+    <state x="130" y="190" key="run.anything.popup" timestamp="1586352908566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="130" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586352908566" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="pos+k/2==56" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/KNN.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="pos &gt;= k / 2 &amp;&amp; pos &lt;= number_of_elems - k / 2" />
+        <watch expression="number_of_elems - k / 2" />
+        <watch expression="pos &lt; k / 2" />
+        <watch expression="k / 2" />
+        <watch expression="index == number_of_elems-1" />
+        <watch expression="U[number_of_elems - 1] - U[pos - k / 2]" />
+        <watch expression="pos &gt;= k / 2" />
+        <watch expression="pos &lt;= number_of_elems - k / 2" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
